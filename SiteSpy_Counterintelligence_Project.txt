@@ -1,1 +1,92 @@
+Search "IP Ranges :" (18 hits in 5 files of 5 searched)
+  C:\sitespy\archive\zone-archive-2026-02-18.log (1 hit)
+	Line 5: IP Ranges : 4.193.188.0/24
+  C:\sitespy\archive\zone-archive-2026-02-19.log (3 hits)
+	Line 5: IP Ranges : 40.80.90.0/24, 4.232.90.0/24
+	Line 15: IP Ranges : 119.13.108.0/24
+	Line 25: IP Ranges : 186.204.62.0/24, 124.243.173.0/24
+  C:\sitespy\archive\zone-archive-2026-02-20.log (2 hits)
+	Line 5: IP Ranges : 104.211.88.0/24
+	Line 15: IP Ranges : 104.211.93.0/24
+  C:\sitespy\archive\zone-archive-2026-02-21.log (5 hits)
+	Line 5: IP Ranges : 74.248.96.0/24, 20.203.180.0/24, 20.238.121.0/24
+	Line 15: IP Ranges : 104.46.239.0/24, 20.100.191.0/24
+	Line 25: IP Ranges : 20.212.6.0/24
+	Line 35: IP Ranges : 68.221.129.0/24
+	Line 45: IP Ranges : 122.161.52.0/24, 112.202.51.0/24
+  C:\sitespy\archive\zone-archive-2026-02-22.log (7 hits)
+	Line 5: IP Ranges : 154.160.2.0/24, 20.111.62.0/24, 172.213.17.0/24
+	Line 15: IP Ranges : 52.141.4.0/24
+	Line 25: IP Ranges : 20.203.136.0/24, 20.63.214.0/24
+	Line 35: IP Ranges : 87.126.141.0/24, 187.182.3.0/24, 37.77.150.0/24
+	Line 45: IP Ranges : 161.0.60.0/24, 143.105.37.0/24
+	Line 55: IP Ranges : 20.89.88.0/24
+	Line 65: IP Ranges : 20.100.195.0/24, 20.191.226.0/24
+Search "IP Ranges :" (61 hits in 5 files of 5 searched)
+  C:\sitespy\archive\zone-archive-2026-02-18.log (6 hits)
+	Line  5: IP Ranges : 20.203.180.0/24
+	Line 15: IP Ranges : 4.232.90.0/24
+	Line 25: IP Ranges : 20.210.188.0/24, 3.222.192.0/24
+	Line 35: IP Ranges : 104.46.236.0/24
+	Line 45: IP Ranges : 20.46.124.0/24
+	Line 55: IP Ranges : 68.219.113.0/24, 20.24.82.0/24, 40.80.90.0/24
+  C:\sitespy\archive\zone-archive-2026-02-19.log (4 hits)
+	Line  5: IP Ranges : 52.141.2.0/24
+	Line 15: IP Ranges : 172.177.66.0/24
+	Line 25: IP Ranges : 4.206.20.0/24
+	Line 35: IP Ranges : 65.21.106.0/24
+  C:\sitespy\archive\zone-archive-2026-02-20.log (12 hits)
+	Line   5: IP Ranges : 68.221.64.0/24
+	Line  15: IP Ranges : 152.232.53.0/24, 74.248.132.0/24
+	Line  25: IP Ranges : 216.26.232.0/24, 104.46.216.0/24
+	Line  35: IP Ranges : 20.210.88.0/24
+	Line  45: IP Ranges : 20.212.80.0/24
+	Line  55: IP Ranges : 20.189.202.0/24
+	Line  65: IP Ranges : 20.5.72.0/24
+	Line  75: IP Ranges : 20.213.152.0/24
+	Line  85: IP Ranges : 23.100.90.0/24
+	Line  95: IP Ranges : 104.46.239.0/24
+	Line 105: IP Ranges : 52.231.66.0/24, 20.197.194.0/24
+	Line 115: IP Ranges : 20.194.25.0/24
+  C:\sitespy\archive\zone-archive-2026-02-21.log (15 hits)
+	Line   5: IP Ranges : 20.197.25.0/24, 52.172.248.0/24, 20.214.157.0/24, 20.212.104.0/24, 65.52.160.0/24, 20.48.106.0/24, 4.232.88.0/24, 104.46.226.0/24, 20.214.158.0/24, 20.187.67.0/24, 172.182.206.0/24
+	Line  15: IP Ranges : 40.74.73.0/24
+	Line  25: IP Ranges : 20.219.32.0/24
+	Line  35: IP Ranges : 52.141.4.0/24
+	Line  45: IP Ranges : 20.203.129.0/24, 20.215.69.0/24
+	Line  55: IP Ranges : 20.219.0.0/24
+	Line  65: IP Ranges : 20.196.195.0/24
+	Line  75: IP Ranges : 51.107.182.0/24
+	Line  85: IP Ranges : 20.163.110.0/24
+	Line  95: IP Ranges : 172.213.17.0/24
+	Line 105: IP Ranges : 20.48.26.0/24
+	Line 115: IP Ranges : 20.63.214.0/24
+	Line 125: IP Ranges : 68.221.129.0/24
+	Line 135: IP Ranges : 104.215.189.0/24
+	Line 145: IP Ranges : 20.187.125.0/24
+  C:\sitespy\archive\zone-archive-2026-02-22.log (24 hits)
+	Line   5: IP Ranges : 20.223.240.0/24
+	Line  15: IP Ranges : 87.106.147.0/24
+	Line  25: IP Ranges : 51.120.79.0/24
+	Line  35: IP Ranges : 20.214.136.0/24
+	Line  45: IP Ranges : 104.207.48.0/24
+	Line  55: IP Ranges : 20.24.198.0/24
+	Line  65: IP Ranges : 20.199.109.0/24
+	Line  75: IP Ranges : 20.199.120.0/24
+	Line  85: IP Ranges : 20.91.197.0/24
+	Line  95: IP Ranges : 20.212.6.0/24
+	Line 105: IP Ranges : 158.158.123.0/24
+	Line 115: IP Ranges : 20.215.248.0/24
+	Line 125: IP Ranges : 20.24.210.0/24
+	Line 135: IP Ranges : 104.209.148.0/24
+	Line 145: IP Ranges : 20.107.198.0/24
+	Line 155: IP Ranges : 20.238.121.0/24
+	Line 165: IP Ranges : 20.53.249.0/24
+	Line 175: IP Ranges : 74.243.251.0/24
+	Line 185: IP Ranges : 74.248.96.0/24, 158.158.33.0/24
+	Line 195: IP Ranges : 20.111.44.0/24
+	Line 205: IP Ranges : 52.236.62.0/24
+	Line 215: IP Ranges : 52.236.62.0/24
+	Line 225: IP Ranges : 20.151.220.0/24
+	Line 235: IP Ranges : 172.213.10.0/24
 
